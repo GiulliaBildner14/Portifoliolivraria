@@ -1,2 +1,2 @@
 # Portifolio
-https://giulliabildner14.github.io/Portifoliolivraria/portifolio
+https://giulliabildner14.github.io/Portifoliolivraria/Portifolio
